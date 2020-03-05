@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://jeremmie.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jeremmie.github.io/portfolio" />
-    <updated>2020-03-04T18:39:26+01:00</updated>
+    <updated>2020-03-05T19:02:45+01:00</updated>
     <author>
         <name>Jérémie</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://jeremmie.github.io/portfolio/formation.html"/>
         <id>https://jeremmie.github.io/portfolio/formation.html</id>
 
-        <updated>2020-03-02T19:08:21+01:00</updated>
+        <updated>2020-03-05T19:02:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://jeremmie.github.io/portfolio/media/posts/3/connect-316638.jpg" alt="" />
@@ -32,9 +32,6 @@
 <p>J'aime beaucoup faire des scènes fantaisistes car tout le monde peut interpreter le contenu comme ils le veulent. Je n'aime pas forcer le public à voir ce que je veux qu'ils voient.</p>
 <p>J'ai pris l'habitude de rajouter un détail spécial pour me démarquer et rajouter une touche personnel, par exemple en rajoutant un personnage qui relie plusieures de mes créations entre elles, créent un petit scénario et fais la différence du tutoriel.</p>
 <p> </p>
-<p> </p>
-<p> </p>
-<p>Ma première animation sur Blender à été cette vidéo en boucle. En la revoyant aujourd'hui je remaque beaucoup d'erreurs qui ne m'avaient pas frapper pendant la création. Mais c'est ce travail qui m'a permis de me familiariser avec le logiciel.</p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2-cote-gauche.png" ><img src="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2-cote-gauche-thumbnail.png" alt="" width="720" height="405"></a></figure>
 <figure class="gallery__item"><a href="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2.png" ><img src="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2-thumbnail.png" alt="" width="720" height="405"></a></figure>
@@ -47,7 +44,7 @@
 <p>Ce travail m'a appris le fonctionnement des reflets et des lumières. Le but de cette scène était de faire une animation où le personnage se levait en se réveillant, malheureusement je n'ai pas car le rendus était trop exigeant pour mon ordinateur. Après beaucoup d'hésitations pour le placement de la caméra et de difficultées à trouver un addon pour le denoising, je suis arrivé à ce rendu qui me plait.</p>
 <p> </p>
 <p><img class="post__image" src="https://jeremmie.github.io/portfolio/media/posts/3/image-tranche.PNG" alt="" width="1094" height="759"></p>
-<p><a href="https://vimeo.com/394991379">https://vimeo.com/394991379</a></p>
+<p> https://vimeo.com/394991379</p>
 <p>Cette animation n'as pas été difficile à faire mais je me suis amusé à rajouter quelques détails par exemple rajouter la lumière qui vient illuminé une ligne verticale, ou bien orienter la caméra la où la forme est la plus spéciale.</p>
 <p> </p>
 <p> </p>
