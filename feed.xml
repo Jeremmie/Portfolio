@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://jeremmie.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://jeremmie.github.io/portfolio" />
-    <updated>2020-03-05T19:02:45+01:00</updated>
+    <updated>2020-03-08T11:21:50+01:00</updated>
     <author>
         <name>Jérémie</name>
     </author>
@@ -17,27 +17,27 @@
         <link href="https://jeremmie.github.io/portfolio/formation.html"/>
         <id>https://jeremmie.github.io/portfolio/formation.html</id>
 
-        <updated>2020-03-05T19:02:36+01:00</updated>
+        <updated>2020-03-08T11:21:25+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jeremmie.github.io/portfolio/media/posts/3/connect-316638.jpg" alt="" />
-                    Pour me former, j'ai suivis des tutoriels qui m'ont permis de comprendre le fonctionnement de Blender. Je suis principalement les tutoriels de Ducky 3D car il arrive à expliquer clairement et à faire des rendus très plaisant. J'aime beaucoup faire des scènes fantaisistes car tout&hellip;
+                        <img src="https://jeremmie.github.io/portfolio/media/posts/3/travail-poeme.png" alt="" />
+                    Pour me former, j'ai suivis des tutoriels qui m'ont permis de comprendre le fonctionnement de Blender. Je suis principalement les tutoriels de Ducky 3D car il arrive à expliquer clairement et à faire des rendus très plaisant. Je fais principalement des scènes fantaisistes car tout le&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jeremmie.github.io/portfolio/media/posts/3/connect-316638.jpg" alt="" />
+                    <img src="https://jeremmie.github.io/portfolio/media/posts/3/travail-poeme.png" alt="" />
                 <p>Pour me former, j'ai suivis des tutoriels qui m'ont permis de comprendre le fonctionnement de Blender.</p>
 <p>Je suis principalement les tutoriels de Ducky 3D car il arrive à expliquer clairement et à faire des rendus très plaisant.</p>
-<p>J'aime beaucoup faire des scènes fantaisistes car tout le monde peut interpreter le contenu comme ils le veulent. Je n'aime pas forcer le public à voir ce que je veux qu'ils voient.</p>
-<p>J'ai pris l'habitude de rajouter un détail spécial pour me démarquer et rajouter une touche personnel, par exemple en rajoutant un personnage qui relie plusieures de mes créations entre elles, créent un petit scénario et fais la différence du tutoriel.</p>
+<p>Je fais principalement des scènes fantaisistes car tout le monde peut interpreter le contenu comme ils le veulent. Je n'aime pas forcer le public à voir ce que je veux qu'ils voient.</p>
+<p>J'ai pris l'habitude de rajouter un détail spécial pour me démarquer et rajouter une touche personnel, par exemple en rajoutant un personnage qui relie plusieures de mes créations entre elles, créer un petit scénario et fais la différence du tutoriel.</p>
 <p> </p>
 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2-cote-gauche.png" ><img src="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2-cote-gauche-thumbnail.png" alt="" width="720" height="405"></a></figure>
 <figure class="gallery__item"><a href="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2.png" ><img src="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2-thumbnail.png" alt="" width="720" height="405"></a></figure>
 <figure class="gallery__item"><a href="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2-cote-droite.png" ><img src="https://jeremmie.github.io/portfolio/media/posts/3/gallery/the-adventure-part-2-cote-droite-thumbnail.png" alt="" width="720" height="405"></a></figure>
 </div>
-<p><img class="post__image" src="https://jeremmie.github.io/portfolio/media/posts/3/80s0001-0120.avi" alt="">Sur ce travail, j'ai approfondi mes connaissances dans le shading, par exemple pour crée l'eau ou encore les rayures. J'ai aussi appris à maitriser les matériaux dans Blender. J'ai trouvé que la roche ressort vraiment bien et le cylindre avec la boule rejoignais bien ce que je veux représenter, on se demande pourquoi ces éléments surnaturelles sont là et pourquoi le personnage est là. Tout le monde peut se faire son histoire.</p>
+<p><img class="post__image" src="https://jeremmie.github.io/portfolio/media/posts/3/80s0001-0120.avi" alt="">Sur ce travail, j'ai approfondi mes connaissances dans le shading, par exemple pour crée l'eau ou encore les rayures. J'ai aussi appris à maitriser les matériaux dans Blender. J'ai trouvé que la roche ressort vraiment bien et le cylindre avec la boule rejoignais bien ce que je veux représenter, on se demande pourquoi ces éléments surnaturelles et le personnage sont là. Tout le monde peut se faire son propre scénario.</p>
 <p>Les difficultés de ce travail étaient surtout de régler des détails qui ne rendait pas précisement le rendus voulu.</p>
 <p> </p>
 <p><img class="post__image" src="https://jeremmie.github.io/portfolio/media/posts/3/the-aventure.png" alt="" width="1920" height="1080"></p>
@@ -46,6 +46,9 @@
 <p><img class="post__image" src="https://jeremmie.github.io/portfolio/media/posts/3/image-tranche.PNG" alt="" width="1094" height="759"></p>
 <p> https://vimeo.com/394991379</p>
 <p>Cette animation n'as pas été difficile à faire mais je me suis amusé à rajouter quelques détails par exemple rajouter la lumière qui vient illuminé une ligne verticale, ou bien orienter la caméra la où la forme est la plus spéciale.</p>
+<p> <img class="post__image" src="https://jeremmie.github.io/portfolio/media/posts/3/travail-poeme-vetements.jpg" alt="" width="1920" height="1080"></p>
+<p>J'ai fait ce travail pour un projet en cours d'arts visuels. Le but était d'imager des phrases du poème surréaliste "La terre est bleue" de Paul Eluard. La phrase en question pour ce poème était "Et quels vêtements d'indulgence à la croire toute nue."</p>
+<p>J'ai donc appris à faire une simulation de vêtement et j'ai ensuite retouché l'image sur photoshop.</p>
 <p> </p>
 <p> </p>
 <p> </p>
